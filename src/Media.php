@@ -204,7 +204,7 @@ class Media extends Model
     }
 
     /**
-     * Retrieve the file extension.
+     * Retrieve the filename with extension.
      * @return string
      */
     public function getBasenameAttribute(): string
