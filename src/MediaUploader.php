@@ -169,7 +169,7 @@ class MediaUploader
     }
 
     /**
-     * Specify the filename to copy to the file to.
+     * Specify the filename to copy the file to.
      * @param string $filename
      * @return $this
      */
